@@ -1,4 +1,4 @@
-# Universitary_glosary
+# Universitary Glosary
 This repository contains all my notes for each assignature on my Universitary period. You can find notes about:
 * Data Structures
 * Advanced Data Structures
