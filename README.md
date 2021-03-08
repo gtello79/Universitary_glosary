@@ -14,3 +14,5 @@ This repository contains all my notes for each assignature on my Universitary pe
 
 This idea has the intention to reduce the contamination provocated by the student using a lot of books to redact the homeworks and ther notes. Any dudes or correction you can do
 it on the repository, and also on my email gonzalotello79@gmail.com :)
+
+PD: I uses a repository (and not Google Drive or Dropbox) because I can upload differents codes and works
